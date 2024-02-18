@@ -1,1 +1,1 @@
-worker: python noon.py
+worker: python main.py
