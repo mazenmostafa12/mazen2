@@ -1,0 +1,13 @@
+requests==2.31.0
+bs4==0.0.1
+colorama==0.4.6
+pyTelegramBotAPI==4.7.0
+user-agent==0.1.10
+Telethon==1.29.3
+termcolor==2.3.0
+pytz==2023.3.post1
+DateTime==5.2
+Flask==3.0.0
+Flask-Cors==4.0.0
+gunicorn==21.2.0
+httpx==0.26.0
